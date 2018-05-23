@@ -13,6 +13,7 @@ function johnLennonFacts(strList){
     ret.push(strList[idx]+"!!!")
   }
   return ret;
+<<<<<<< HEAD
 }
 
 function iLoveTheBeatles( times){
@@ -25,3 +26,6 @@ function iLoveTheBeatles( times){
   }
   return ret
 }
+=======
+}
+>>>>>>> 14da1abfd2eedb78cd00db0681b713ce851d3fc7
